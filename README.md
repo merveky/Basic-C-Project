@@ -1,1 +1,1 @@
-# Basic-C-Project
+# Basic C++ Project
